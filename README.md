@@ -1,5 +1,5 @@
 ![Mermy Linux Logotype](/assets/MermyLinux-Logotype.png)
-
+<img src="assets/MermyLinux-Logotype.png" alt="Mermy Linux Logotype" style="width:468px">
 **Mermy Linux** is (or will be) an Arch-based Linux distribution with no focus or point whatsoever.
 
 ### The main features of Mermy Linux _should_ (if I make the ISOs right) include:
