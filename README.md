@@ -1,4 +1,4 @@
-# MermyLinux (import logotype here instead later)
+![Mermy Linux Logotype](/assets/MermyLinux-Logotype.png)
 
 **Mermy Linux** is (or will be) an Arch-based Linux distribution with no focus or point whatsoever.
 
