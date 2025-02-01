@@ -1,7 +1,5 @@
 alsa-utils
 amd-ucode
-arch-install-scripts
-archinstall
 ark
 b43-fwcutter
 base
@@ -76,7 +74,6 @@ mdadm
 memtest86+
 memtest86+-efi
 mkinitcpio
-mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
 mpv
