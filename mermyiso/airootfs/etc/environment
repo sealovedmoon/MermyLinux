@@ -1,2 +1,2 @@
-EDITOR=nvim
 BROWSER=firefox
+EDITOR=nvim

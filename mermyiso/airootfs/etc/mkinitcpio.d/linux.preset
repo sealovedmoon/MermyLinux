@@ -1,6 +1,6 @@
 # mkinitcpio preset file for the 'linux' package on archiso
 
-PRESETS=('mermylive')
+PRESETS=('archiso')
 
 ALL_kver='/boot/vmlinuz-linux'
 mermylive_config='/etc/mkinitcpio.conf.d/mermylive.conf'
